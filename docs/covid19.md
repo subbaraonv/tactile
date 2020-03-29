@@ -2,11 +2,8 @@
 layout: default
 ---
 
-## COVID-19 Predictions by DotA folks
+## C-19 Predictions
 
-```
-These are approx deaths likely to be reported in India as per noobs
-```
 
 | `Noob`        | `Count`    | `Correct` |
 |:-------------|:------------------|:------|
