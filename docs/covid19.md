@@ -5,10 +5,10 @@ layout: default
 ## COVID-19 Predictions by DotA folks
 
 ```
-These are the approx deaths likely to be reported in India as per noobs
+These are approx deaths likely to be reported in India as per noobs
 ```
 
-| Noob        | Count    | Correct |
+| `Noob`        | `Count`    | `Correct` |
 |:-------------|:------------------|:------|
 | Khushdeep         | 90,000 | -- |
 | Venugopal         | 150,000 | -- |
@@ -17,7 +17,13 @@ These are the approx deaths likely to be reported in India as per noobs
 | Mridul         | 3,161,400 | mostly (looks pretty calc) |
 
 
+
+* * *
+
 _lets see!_
+
+
+* * * 
 
 [COVID-19](https://www.covid19india.org/)
 
