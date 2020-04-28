@@ -5,7 +5,7 @@ layout: default
 ## C-19 Predictions
 
 
-| `Noob`        | `Count`    | `Correct` |
+| `Dota Noob`        | `Count`    | `Correct` |
 |:-------------|:------------------|:------|
 | Khushdeep         | 90,000 | -- |
 | Venugopal         | 150,000 | -- |
